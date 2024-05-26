@@ -2,5 +2,9 @@
 .conda/
 .micromamba/
 
-# ignore pickles 
+# pickles 
 *.pkl
+
+# caches
+__pycache__/
+.DS_Store
