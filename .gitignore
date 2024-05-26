@@ -1,3 +1,6 @@
 # environments
 .conda/
 .micromamba/
+
+# ignore pickles 
+*.pkl
